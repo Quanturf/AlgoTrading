@@ -1,6 +1,6 @@
 <div align="center">
   <img src="static/images/future-trading.jpeg" height=200 alt=""/>
-  <h1>Awesome Systematic Trading</h1>
+  <h1>Awesome Algorithmic Trading</h1>
 </div>
 <div align=center><img src="https://awesome.re/badge.svg" /></div>
 
